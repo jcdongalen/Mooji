@@ -6,6 +6,7 @@ buildscript {
     ext.test_runner_version = '1.0.2'
     ext.test_espresso_version = '3.0.2'
     ext.butterknife_version = '8.8.1'
+    ext.timber_version = '4.7.1'
     ext.picasso_version = '2.3.2'
     ext.retrofit_version = '2.4.0'
     ext.retrofit_httplogger_version = '3.9.1'
